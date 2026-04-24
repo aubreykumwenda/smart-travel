@@ -1,0 +1,28 @@
+name: smart_travel
+
+description: A new Flutter web project for smart travel applications.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+environments:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.6.0
+  firebase_auth: ^5.0.9
+  cloud_firestore: ^4.6.4
+  provider: ^6.0.0
+  http: ^0.14.0
+  flutter_bloc: ^8.1.1
+  get_it: ^7.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/config/
