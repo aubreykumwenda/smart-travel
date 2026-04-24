@@ -1,0 +1,39 @@
+# Flutter specific 
+
+# Build output
+/build/  
+
+# Dart tool
+.dart_tool/  
+
+# Flutter Plugins
+.flutter-plugins  
+
+# Flutter Packages
+.packages  
+pubspec.lock  
+
+# Web files
+web/js/*  
+
+# iOS
+ios/  
+
+# Android
+android/  
+
+# Windows
+windows/  
+
+# Linux
+linux/  
+
+# macOS
+macos/  
+
+# Environment variables
+.env  
+
+# IDE files
+.vscode/  
+.idea/  
